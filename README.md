@@ -19,5 +19,8 @@ src/
 |-- App.jsx
 
 
+useHistory or useNavigate hooks are imported from 'react-router-dom'.
+The hook is called to get the necessary function (history or navigate) for programmatically navigating.
+Inside an event handler (e.g., a button click), you call the navigation function (history.push or navigate) with the desired route as an argument.
 
 
