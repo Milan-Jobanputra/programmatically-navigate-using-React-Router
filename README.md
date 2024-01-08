@@ -11,5 +11,13 @@ Using useNavigate (React Router v6):
 
 Check the file  MyComponentVSix.jsx
 
+Here's how the directory structure might look: 
+
+src/
+|-- components/
+|   |-- MyComponent.jsx
+|-- App.jsx
+
+
 
 
