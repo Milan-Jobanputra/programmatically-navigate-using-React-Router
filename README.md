@@ -23,4 +23,6 @@ useHistory or useNavigate hooks are imported from 'react-router-dom'.
 The hook is called to get the necessary function (history or navigate) for programmatically navigating.
 Inside an event handler (e.g., a button click), you call the navigation function (history.push or navigate) with the desired route as an argument.
 
+Choose the appropriate approach based on the version of React Router you are using in your project. If you are using React Router version 6 or later, it's recommended to use useNavigate as it is designed to work with the new features and improvements introduced in those versions.
+
 
